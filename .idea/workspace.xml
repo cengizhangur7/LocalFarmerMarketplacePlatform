@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0a95a93-0989-48de-92fd-c23da7bfca82" name="Changes" comment="***">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/src/main/java/estu/ceng/admin/AdminApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/src/main/java/estu/ceng/admin/config/AdminConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/src/main/java/estu/ceng/admin/config/AdminDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/src/main/java/estu/ceng/admin/config/AdminServiceConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/src/main/java/estu/ceng/admin/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/src/main/java/estu/ceng/admin/controller/CategoryController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/src/main/java/estu/ceng/admin/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/src/main/java/estu/ceng/admin/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/src/main/resources/static/css/sb-admin-2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/src/main/resources/static/css/sb-admin-2.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/src/main/resources/templates/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/src/main/resources/templates/add-product.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/src/main/resources/templates/categories.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/src/main/resources/templates/forgot-password.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/src/main/resources/templates/fragments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/src/main/resources/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/src/main/resources/templates/orders.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/src/main/resources/templates/product-result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/src/main/resources/templates/products.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/src/main/resources/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/src/main/resources/templates/update-product.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Admin/src/test/java/estu/ceng/admin/AdminApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/estu/ceng/customer/CustomerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/estu/ceng/customer/config/CustomerConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/estu/ceng/customer/config/CustomerDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/estu/ceng/customer/config/CustomerServiceConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/estu/ceng/customer/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/estu/ceng/customer/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/estu/ceng/customer/controller/LoginController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/estu/ceng/customer/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/estu/ceng/customer/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/java/estu/ceng/customer/controller/ShoppingCartController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/resources/templates/cart.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/resources/templates/change-password.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/resources/templates/checkout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/resources/templates/contact-us.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/resources/templates/customer-information.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/resources/templates/fragments.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/resources/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/resources/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/resources/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/resources/templates/order-detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/resources/templates/order.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/resources/templates/product-detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/resources/templates/products.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/resources/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/main/resources/templates/shop-detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customer/src/test/java/estu/ceng/customer/CustomerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/LibraryApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/dto/AdminDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/dto/CartItemDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/dto/CategoryDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/dto/CustomerDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/dto/ProductDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/dto/ShoppingCartDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/model/Admin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/model/CartItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/model/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/model/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/model/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/model/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/model/OrderDetail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/model/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/model/ShoppingCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/repository/AdminRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/repository/CartItemRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/repository/CategoryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/repository/CityRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/repository/CountryRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/repository/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/repository/OrderDetailRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/repository/OrderRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/repository/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/repository/RoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/repository/ShoppingCartRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/service/AdminService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/service/CategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/service/CityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/service/CountryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/service/ShoppingCartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/service/implementation/AdminServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/service/implementation/CategoryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/service/implementation/CityServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/service/implementation/CountryServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/service/implementation/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/service/implementation/OrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/service/implementation/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/service/implementation/ShoppingCartServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/java/estu/ceng/library/utils/ImageUpload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Library/src/test/java/estu/ceng/library/LibraryApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Admin" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Pq1ApZIbMp7DZXg4yQzZC8Kao4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.1150748",
+    "spring.configuration.checksum": "5ee0d7b00e34db1c976b83d296766862",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Cengizhan Gür\Desktop\E-Commerce\LocalFarmerMarketplacePlatform\Admin\src\main\resources\static\css" />
+      <recent name="C:\Users\Cengizhan Gür\Desktop\E-Commerce\LocalFarmerMarketplacePlatform\Customer\src\main\resources\templates" />
+      <recent name="C:\Users\Cengizhan Gür\Desktop\E-Commerce\LocalFarmerMarketplacePlatform\Customer\src\main\resources\static" />
+      <recent name="C:\Users\Cengizhan Gür\Desktop\E-Commerce\LocalFarmerMarketplacePlatform\Admin\src\main\resources\templates" />
+      <recent name="C:\Users\Cengizhan Gür\Desktop\E-Commerce\LocalFarmerMarketplacePlatform\Admin\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AdminApplication">
+    <configuration name="AdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="estu.ceng.admin.AdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Customer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="estu.ceng.customer.CustomerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LibraryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Library" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="estu.ceng.library.LibraryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0a95a93-0989-48de-92fd-c23da7bfca82" name="Changes" comment="" />
+      <created>1684169661065</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684169661065</updated>
+      <workItem from="1684169662345" duration="4459000" />
+      <workItem from="1684174383826" duration="915000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="***" />
+    <option name="LAST_COMMIT_MESSAGE" value="***" />
+  </component>
+</project>
